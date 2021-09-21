@@ -28,14 +28,14 @@ async def start(bot, update):
             await update.reply_cached_media(
                 file_id,
                 quote=True,
-                caption = f"<code>{file_name}</code> <br> \n \n🔰Ꮲᴏᴡᴇʀᴇᴅ Ᏼʏ🔰 @AMD_LinkZz",
+                caption = f"<code>{file_name}</code> <br> \n \n🔰Ꮲᴏᴡᴇʀᴇᴅ Ᏼʏ🔰 @tamilblasterzzzz @REX_BOTZ",
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
                             InlineKeyboardButton
                                 (
-                                    '♻️ Ꭻᴏɪɴ Νᴏᴡ ♻️', url="https://t.me/AMD_LinkZz"
+                                    '♻️ Ꭻᴏɪɴ Νᴏᴡ ♻️', url="https://t.me/tamilblasterzzzz"
                                 )
                         ]
                     ]
@@ -47,10 +47,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers🙋', url='https://t.me/AMD_LinkZz'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/KingPhoenix06/AMD-FiltersbotV3')
+        InlineKeyboardButton('Developers🙋', url='https://t.me/DareAbijth'),
+        InlineKeyboardButton('Source Code 🧾', url ='https://youtu.be/5rB7DfNoZ0Y')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/AMD_Discussion')
+        InlineKeyboardButton('Support 🛠', url='https://t.me/@REX_BOTZ')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
