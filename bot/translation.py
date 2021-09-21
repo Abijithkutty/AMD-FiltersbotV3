@@ -10,7 +10,7 @@ class Translation(object):
 You Can't Add Me To Ur Group🔥🔥😝
 
 For More Details Click Help Button Below..
-@AMD_Discussion
+@moviesworld2ty
 </i>"""    
     
     HELP_TEXT = """
@@ -43,16 +43,16 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@AMD_LinkZz
+@moviesworld2ty
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/Crazy_Phoenix">✰°｡• 𝗣𝗛𝗢𝗘𝗡𝗜𝗫 •｡°✰</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/DareAbijth">࿐乂Ͼ🅰️🅱️🅸🅹🆃🅸🅷Ͽ乂࿐ .ᴋ</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2">Click Me</a></i>
+<b>➥ Source Code</b> : <i><a href="https://youtu.be/5rB7DfNoZ0Y">Click Me</a></i>
 """
