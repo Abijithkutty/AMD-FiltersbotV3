@@ -1639,7 +1639,7 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/DareAbijth'),
+            InlineKeyboardButton('My Don 👨‍🔬', url='https://t.me/DareAbijth'),
             InlineKeyboardButton('Source Code 🧾', url ='https://youtu.be/5rB7DfNoZ0Y')
         ],[
             InlineKeyboardButton('Support 🛠', url='https://t.me/REX_Bots_Support')
