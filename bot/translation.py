@@ -10,7 +10,7 @@ class Translation(object):
 You Can't Add Me To Ur Group🔥🔥😝
 
 For More Details Click Help Button Below..
-@moviesworld2ty
+@t͏a͏m͏i͏l͏b͏l͏a͏s͏t͏e͏r͏z͏z͏z͏z͏
 </i>"""    
     
     HELP_TEXT = """
@@ -43,7 +43,7 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@moviesworld2ty
+@t͏a͏m͏i͏l͏b͏l͏a͏s͏t͏e͏r͏z͏z͏z͏z͏
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
